@@ -1,4 +1,6 @@
+
 #!/usr/bin/env bash
+# Author: Rayyosha
 # maintain.sh - back up a folder, rotate the log,
 # keep the newest backups and check services.
 # Usage: maintain.sh [source-folder]
