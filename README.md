@@ -8,3 +8,8 @@ Week 3 Linux shell scripts and Week 4 Git practice.
 
 ## Author
 Rayyosha
+
+## Restore a backup
+1. mkdir -p /tmp/restore
+2. tar -xzf ~/backups/<newest>.tar.gz -C /tmp/restore
+3. ls /tmp/restore  (check the files)
